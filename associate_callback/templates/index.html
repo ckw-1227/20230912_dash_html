@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="static/css/dropdown.css">
+        <title>Dashにhtmlを組み込む</title>
+    </head>
+    <body>
+        <div class="center"><h3>Dashとhtmlを共存させたい！</h3>
+            <label class="selectbox-001">
+                <select name="sources" id="sources" class="custom-select sources" placeholder="Choose Country">
+                    <option value="Afghanistan">Afghanistan</option>
+                    <option value="Albania">Albania</option>
+                    <option value="Algeria">Algeria</option>
+                    <option value="Angola">Angola</option>
+                    <option value="Argentina">Argentina</option>
+                    <option value="Armenia">Armenia</option>
+                    <option value="Aruba">Aruba</option>
+                    <option value="Australia">Australia</option>
+                    <option value="Austria">Austria</option>
+                </select>
+            </label>
+        </div>
+        {{ dash_app|safe }}
+    </body>
+</html>
