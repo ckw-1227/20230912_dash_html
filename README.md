@@ -7,7 +7,7 @@
 - このリポジトリに含まれている内容
   - minimak_app
     - 今回のサンプルの元ネタ。
-    - 内容は[公式ページのA Minimal Dash App](https://dash.plotly.com/minimal-app)と全く同じものです。
+    - 内容は[Dash公式ページのA Minimal Dash App](https://dash.plotly.com/minimal-app)と全く同じものです。
 
   - enbedding_html
     - 上記のソースに、htmlで書いたタイトルとドロップダウンメニューを組み込んだものです。
