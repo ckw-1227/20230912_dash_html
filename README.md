@@ -1,8 +1,8 @@
 ## Dashに自作htmlを組み込みたい！ サンプルソース
 
 - このリポジトリ内容の紹介については、以下記事をご覧ください。
-  - [Dashに自作htmlを組み込みたい！ ～html埋め込み編～]()
-  - [Dashに自作htmlを組み込みたい！ ～callback関連付け編～]()
+  - [Dashに自作htmlを組み込みたい！ ～html埋め込み編～](https://qiita.com/ckw-1227/items/d753daf614d474484d72)
+  - [Dashに自作htmlを組み込みたい！ ～callback関連付け編～](https://qiita.com/ckw-1227/items/ba824cbc6a3fb3525bab)
 
 - このリポジトリに含まれている内容
   - minimak_app
